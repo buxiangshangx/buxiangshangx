@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>郑伟豪个人网页</title>
+    <style>
+        /* 在这里添加您的CSS样式 */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        /* 在这里添加更多样式 */
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>郑伟豪的个人网页</h1>
+    </div>
+    <div class="content">
+        <h2>音乐作品</h2>
+        <!-- 在这里添加您的音乐作品展示 -->
+        <p>这里可以展示您的音乐作品，您可以使用音频标签或者嵌入音频播放器。</p>
+    </div>
+    <!-- 在这里添加更多内容，比如个人简介、联系信息等 -->
+</body>
+</html>
